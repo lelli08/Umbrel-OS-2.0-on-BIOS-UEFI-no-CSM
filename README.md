@@ -199,8 +199,8 @@ sudo rugix-ctrl system info                           # activeGroup "a", bootFlo
 
 ## Credits
 
-I have created this with Claude Code with my personal activity. 
-This project is created by me with the help of AI.
+I have created this repo with Claude. 
+This project is created by me with the help of AI (Gemini, Claude).
 I'm italian, sorry for my bad english.
 For me this configuration works well, i've also home assistant, tailscale, adguard ecc. and they works as fine as my previous conf. with CasaOs on ubuntu (Hp pavilion i5 8thgen, 16 ram, 1tbssd.
 I know the hardware limitation but umbrel os works on his native os (Rugix, Debian) so is very light. I'm waiting for the integration with the ios app (now on TestFLight).
