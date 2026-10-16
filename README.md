@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="vZBOJad6z8sPL8LWpF3T8Q0v6A69I0SR8U2U7TjQlxI" />
 # Running umbrelOS 2.0 on a legacy-BIOS PC (no UEFI) with GRUB
 
 How I got **umbrelOS 2.0** to boot natively on an **Acer Extensa 5620**, a 2007 laptop that only has a legacy BIOS (no UEFI, and no usable UEFI/CSM path), even though Umbrel officially supports UEFI only.
